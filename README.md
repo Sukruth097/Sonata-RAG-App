@@ -25,10 +25,17 @@ The Sonata RAG Management System is a comprehensive platform designed to facilit
 
 By integrating these technologies and infrastructure components, the Sonata RAG Management System aims to streamline the deployment and management of RAG applications, addressing scalability and reliability challenges effectively.
 
-## Project Archietecture
+### Project Archietecture
 ![arch tech diagram](https://github.com/user-attachments/assets/6089e601-045e-4267-a7fd-755ac8ec2867)
 
-## UI of the App
+### FAST API 
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/6dadd29a-068a-4356-82eb-9efc07f5cf76" />
+- Document Upload (PDF, TXT, etc.)
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/8fa51648-a661-4ce3-86b0-0e14fad4c7a3" />
+-  Querying and Receiving Responses
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/9a8b286e-55df-4561-9185-487b6254f510" />
+
+### UI of the App
 
 <img width="855" alt="image" src="https://github.com/user-attachments/assets/d19f8849-de87-44d2-ad9d-482e34b946ff" />
 
