@@ -1,6 +1,7 @@
 ### Sonata RAG Management System
 
-image.png
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/d19f8849-de87-44d2-ad9d-482e34b946ff" />
+
 
 # How to run?
 
