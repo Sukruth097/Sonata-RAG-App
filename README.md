@@ -16,7 +16,7 @@ The Sonata RAG Management System is a comprehensive platform designed to facilit
 4. Docker: Containerization for consistent development and deployment environments.
 5. LangSmith: Platform for debugging, testing, evaluating, and monitoring LLM applications, ensuring robustness in production. 
 
-- Infrastructure
+**Infrastructure**
 
 1. AWS S3: Scalable object storage for managing large datasets.
 2. Azure App Service: Managed platform for deploying and scaling Flask web applications, integrating seamlessly with Azure OpenAI services.
