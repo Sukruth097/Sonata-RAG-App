@@ -32,6 +32,10 @@ By integrating these technologies and infrastructure components, the Sonata RAG 
 
 <img width="855" alt="image" src="https://github.com/user-attachments/assets/d19f8849-de87-44d2-ad9d-482e34b946ff" />
 
+### Running in Docker Desktop
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/d5a71dc1-6d0b-48fa-8f2b-cd80216f0f0a" />
+
+
 
 # How to run?
 
