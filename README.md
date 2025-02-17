@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ```bash
 # Finally run the following command
-python app/main.py
+python src/main.py
 ```
 
 Now,
