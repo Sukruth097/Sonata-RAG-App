@@ -1,7 +1,7 @@
 ### Sonata RAG Management System
-```
+
 image.png
-```
+
 # How to run?
 
 ### STEPS:
