@@ -1,0 +1,63 @@
+
+aiohttp==3.11.12
+asgiref==3.8.1
+# asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+boto3==1.28.0
+botocore==1.31.85
+build==1.2.2.post1
+click==8.1.8
+# colorama @ file:///C:/ci_311/colorama_1676422310965/work
+coloredlogs==15.0.1
+# comm @ file:///C:/b/abs_67a8058udb/croot/comm_1709322909844/work
+dataclasses-json==0.6.7
+# debugpy @ file:///C:/b/abs_bf9oo2vhxp/croot/debugpy_1736269476451/work
+# decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+Deprecated==1.2.18
+distro==1.9.0
+durationpy==0.9
+emoji==2.14.1
+# executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fastapi==0.115.8
+filelock==3.17.0
+filetype==1.2.0
+Flask==2.3.3
+flatbuffers==25.2.10
+frozenlist==1.5.0
+fsspec==2025.2.0
+# ipykernel @ file:///C:/b/abs_6c9ggygp01/croot/ipykernel_1737660720620/work
+# jedi @ file:///C:/b/abs_3a2kbnlclc/croot/jedi_1733987412687/work
+Jinja2==3.1.5
+jiter==0.8.2
+jmespath==1.0.1
+joblib==1.4.2
+jsonpatch==1.33
+jsonpointer==3.0.0
+# jupyter_client @ file:///C:/b/abs_149bw133if/croot/jupyter_client_1737570986926/work
+# jupyter_core @ file:///C:/b/abs_beftpbuevw/croot/jupyter_core_1718818307097/work
+kubernetes==32.0.0
+langchain==0.3.18
+langchain-chroma==0.2.2
+langchain-community==0.3.17
+langchain-core==0.3.35
+langchain-openai==0.3.6
+langchain-text-splitters==0.3.6
+langdetect==1.0.9
+langsmith==0.3.8
+protobuf==5.29.3
+pydantic==2.10.6
+pydantic-settings==2.7.1
+pydantic_core==2.27.2
+# Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
+pypdf==5.3.0
+PyPika==0.48.9
+pyproject_hooks==1.2.0
+pyreadline3==3.5.4
+# python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+python-dotenv==1.0.1
+# pyzmq @ file:///C:/b/abs_f3yte6j5yn/croot/pyzmq_1734711069724/work
+regex==2024.11.6
+requests==2.32.3
+tiktoken==0.9.0
+unstructured==0.10.30
+Werkzeug==2.3.7
+
