@@ -64,7 +64,3 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-Now,
-```bash
-open up you local host and port
-```
