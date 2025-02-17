@@ -10,23 +10,23 @@ The Sonata RAG Management System is a comprehensive platform designed to facilit
 
 - Tech Stack
 
-Python: Primary language offering extensive AI and machine learning libraries.
-Flask: Lightweight web framework for building scalable APIs.
-Azure OpenAI: Access to advanced language models for generating human-like text responses.
-Docker: Containerization for consistent development and deployment environments.
-LangSmith: Platform for debugging, testing, evaluating, and monitoring LLM applications, ensuring robustness in production. 
+1. Python: Primary language offering extensive AI and machine learning libraries.
+2. Flask: Lightweight web framework for building scalable APIs.
+3. Azure OpenAI: Access to advanced language models for generating human-like text responses.
+4. Docker: Containerization for consistent development and deployment environments.
+5. LangSmith: Platform for debugging, testing, evaluating, and monitoring LLM applications, ensuring robustness in production. 
 
 - Infrastructure
 
-AWS S3: Scalable object storage for managing large datasets.
-Azure App Service: Managed platform for deploying and scaling Flask web applications, integrating seamlessly with Azure OpenAI services.
-GitHub Actions: CI/CD pipelines to automate testing and deployment, enhancing development efficiency.
-Terraform: Infrastructure as code for consistent provisioning and management of cloud resources across AWS and Azure.
+1. AWS S3: Scalable object storage for managing large datasets.
+2. Azure App Service: Managed platform for deploying and scaling Flask web applications, integrating seamlessly with Azure OpenAI services.
+3. GitHub Actions: CI/CD pipelines to automate testing and deployment, enhancing development efficiency.
+4. Terraform: Infrastructure as code for consistent provisioning and management of cloud resources across AWS and Azure.
+
 By integrating these technologies and infrastructure components, the Sonata RAG Management System aims to streamline the deployment and management of RAG applications, addressing scalability and reliability challenges effectively.
 
 ## Project Archietecture
-![image](https://github.com/user-attachments/assets/844476aa-f70f-49e2-b1f6-f53b56f22c21)
-
+![arch tech diagram](https://github.com/user-attachments/assets/6089e601-045e-4267-a7fd-755ac8ec2867)
 
 ## UI of the App
 
