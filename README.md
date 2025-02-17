@@ -8,7 +8,7 @@ Organizations face challenges in deploying scalable and reliable Retrieval-Augme
 
 The Sonata RAG Management System is a comprehensive platform designed to facilitate the deployment and management of production-grade RAG applications, ensuring scalability, reliability, and efficiency.
 
-- Tech Stack
+***Tech Stack***
 
 1. Python: Primary language offering extensive AI and machine learning libraries.
 2. Flask: Lightweight web framework for building scalable APIs.
