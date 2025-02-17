@@ -30,9 +30,11 @@ By integrating these technologies and infrastructure components, the Sonata RAG 
 
 ### FAST API 
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/6dadd29a-068a-4356-82eb-9efc07f5cf76" />
-- Document Upload (PDF, TXT, etc.)
+
+#### Document Upload (PDF, TXT, etc.)
 <img width="758" alt="image" src="https://github.com/user-attachments/assets/8fa51648-a661-4ce3-86b0-0e14fad4c7a3" />
--  Querying and Receiving Responses
+
+#### Querying and Receiving Responses
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/9a8b286e-55df-4561-9185-487b6254f510" />
 
 ### UI of the App
