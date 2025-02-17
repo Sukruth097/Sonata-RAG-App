@@ -1,4 +1,4 @@
-Sonata RAG Management System
+#### Sonata RAG Management System
 
 ### Problem Statement
 
